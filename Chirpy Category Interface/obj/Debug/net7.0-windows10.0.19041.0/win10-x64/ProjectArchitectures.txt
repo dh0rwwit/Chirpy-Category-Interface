@@ -1,0 +1,1 @@
+C:\Chirpy Category Interface\Chirpy Category Interface\Chirpy Category Interface.csproj;x64
