@@ -38,22 +38,21 @@
                 Text="Entry Area"
                 WidthRequest="200"
                 HeightRequest="50"
-                TextColor="Black"
+                TextColor="Black" class="TestTextArea"
                 />
 
             <Editor 
                 Text="Editor"
                 WidthRequest="200"
                 TextColor="Black" 
-                HeightRequest="50"
-                
+                HeightRequest="50" class="TestTextArea"
                 />
             
             <SearchBar Placeholder="" 
                 Text="SearchBar"    
                 WidthRequest="200"
                 TextColor="Black" 
-                HeightRequest="50"
+                HeightRequest="50" class="TestTextArea"
                 />
 
             <Button
