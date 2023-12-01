@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>6d52cb4f-17c7-4337-b9c5-4628a2e91c65</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Chirpy Category Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>31E3EB05523F3649DBE6946784A2B0B629BC08AE42874B3771A692B2EC2327E0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>6d52cb4f-17c7-4337-b9c5-4628a2e91c65_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6d52cb4f-17c7-4337-b9c5-4628a2e91c65_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Chirpy Category Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-12-01T02:29:44.408</Modified>
+      <Modified>2023-12-01T04:16:28.905</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-12-01T01:38:41.262</Modified>
+      <Modified>2023-12-01T04:16:28.686</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Chirpy Category Interface.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Chirpy Category Interface.runtimeconfig.json">
       <PackagePath>Chirpy Category Interface.runtimeconfig.json</PackagePath>
-      <Modified>2023-12-01T01:37:02.247</Modified>
+      <Modified>2023-12-01T04:16:28.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Chirpy Category Interface.dll">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Chirpy Category Interface.dll">
       <PackagePath>Chirpy Category Interface.dll</PackagePath>
-      <Modified>2023-12-01T02:29:43.658</Modified>
+      <Modified>2023-12-01T04:16:27.536</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Chirpy Category Interface.exe</PackagePath>
-      <Modified>2023-12-01T02:29:43.658</Modified>
+      <Modified>2023-12-01T04:16:27.540</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Chirpy Category Interface.deps.json">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Chirpy Category Interface.deps.json">
       <PackagePath>Chirpy Category Interface.deps.json</PackagePath>
-      <Modified>2023-12-01T01:38:41.215</Modified>
+      <Modified>2023-12-01T04:16:28.434</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim donghwi\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -933,239 +933,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-11-02T20:30:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-12-01T01:29:57.588</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:13.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:13.684</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:13.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:13.719</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:13.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-12-01T01:29:57.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2023-12-01T01:29:57.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-12-01T01:30:13.827</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:14.017</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:14.019</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:14.033</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:14.035</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:14.081</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2023-12-01T01:30:13.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2023-12-01T01:30:13.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2023-12-01T01:30:13.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2023-12-01T01:30:13.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2023-12-01T01:30:13.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2023-12-01T01:30:13.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2023-12-01T01:30:13.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2023-12-01T01:30:13.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2023-12-01T01:30:13.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2023-12-01T01:30:13.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:13.848</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:13.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:13.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:13.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:13.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2023-12-01T01:30:13.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2023-12-01T01:30:13.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2023-12-01T01:30:13.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2023-12-01T01:30:13.866</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2023-12-01T01:30:13.866</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:13.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:13.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:13.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:13.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:13.954</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:13.919</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:13.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:13.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:13.922</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:13.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:13.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:13.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:13.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:13.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:13.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:13.954</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:13.971</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:13.971</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:13.986</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:14.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-12-01T01:30:13.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-12-01T01:30:13.883</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-12-01T01:30:13.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-12-01T01:30:13.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Chirpy Category Interface\Chirpy-Category-Interface\Chirpy Category Interface\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-12-01T01:30:13.939</Modified>
     </AppxPackagedFile>

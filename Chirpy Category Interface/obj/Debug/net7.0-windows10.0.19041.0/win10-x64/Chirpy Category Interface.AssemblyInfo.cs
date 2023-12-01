@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chirpy Category Interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+50735ee0fb75e19cb8ca08a7765310c9d055f11a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chirpy Category Interface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chirpy Category Interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
